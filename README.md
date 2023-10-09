@@ -1,7 +1,7 @@
 <h1 align="center"> 🚀 BMI Calculator | Vanilla </h1>
 
 ## ✍️ Descrição
-Exemplificação de aplição de IMC/BMI usando vanilla ou Javascript puro
+Exemplificação de aplicação de IMC/BMI usando vanilla ou Javascript puro
 
 
 ## 📥 Clone/Baixe
